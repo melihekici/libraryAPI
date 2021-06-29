@@ -17,8 +17,8 @@ MongoDB Local
 ## Run:
 Open two terminals, one for celery and one for web.py
 
-First terminal -> celery -A bookTransfer worker -c 20 --loglevel=info
-Second terminal -> python3 web.py
+First terminal -> `celery -A bookTransfer worker -c 20 --loglevel=info`  
+Second terminal -> `python3 web.py`  
 
 
 A Library API:
