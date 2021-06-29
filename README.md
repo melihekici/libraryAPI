@@ -3,13 +3,13 @@ Flask-REST-MondoDB-Celery
 
 ## Requirements
 Python Packages:  
-bcrypt
+bcrypt  
 celery==5.1.2
-Flask
-Flask-RESTful
-pymongo
-redis
-redis-server
+Flask  
+Flask-RESTful  
+pymongo  
+redis  
+redis-server  
 
 Other:  
 MongoDB Local
